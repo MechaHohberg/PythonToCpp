@@ -1,2 +1,2 @@
-# iSDC-P2-Translate-Python-Cpp
-Repository for P2 of iSDC - Translate Python to C++
+#Translate-Python-Cpp
+Module 4 Udacity project
